@@ -1,0 +1,68 @@
+:root {
+  --bg: #0f172a;
+  --card: #1e293b;
+  --accent: #7dd3fc;
+  --text: #e2e8f0;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.hero {
+  text-align: center;
+  padding: 40px 10px;
+  background: rgba(255,255,255,0.05);
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: 2.4rem;
+}
+
+.links a {
+  margin: 0 10px;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.container {
+  max-width: 850px;
+  margin: 30px auto;
+  padding: 0 20px;
+}
+
+section {
+  background: var(--card);
+  padding: 18px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+h2 {
+  color: var(--accent);
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+#repo-list {
+  list-style: none;
+  padding: 0;
+}
+
+#repo-list li {
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+footer {
+  text-align: center;
+  padding: 16px;
+  color: #94a3b8;
+}
