@@ -2,9 +2,9 @@
 
 **Role:** AI/ML Engineer | Software Developer  
 **Location:** India  
-**Email:** anshul.dev@example.com  
+**Email:** anshulpatidar713@.com  
 **GitHub:** https://github.com/Anshul-Patidar  
-**LinkedIn:** https://www.linkedin.com/in/anshul-patidar
+**LinkedIn:** https://www.linkedin.com/in/anshulpatidar-cse/
 
 ---
 
