@@ -43,11 +43,11 @@ Merged PR: added Fast.ai ML course + fixed formatting issues.
 
 ### **ML IDS Prototype**
 Basic intrusion detection using classical ML models (RandomForest, SVM).  
-*(Repo link here when ready)*
+
 
 ### **IoT Waste Segregation (Prototype)**
 Used ESP32, sensors, and ML classification.  
-*(Add link if available)*
+
 
 ---
 
@@ -55,11 +55,6 @@ Used ESP32, sensors, and ML classification.
 **B.Tech / M.Tech (in progress)**  
 Master’s thesis topic interest: **AI-powered Cybersecurity (ML for IDS/SIEM automation)**.
 
----
-
-## Certifications
-- Practical Deep Learning for Coders — fast.ai  
-- (Add any online courses here)
 
 ---
 
